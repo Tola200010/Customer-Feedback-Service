@@ -1,0 +1,44 @@
+type: edu
+files:
+  - name: src/feedbackservice/FeedbackApplication.java
+    visible: true
+    learner_created: false
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: test/FeedbackItem.java
+    visible: false
+    learner_created: false
+  - name: test/FeedbackServiceTests.java
+    visible: false
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: src/feedbackservice/components/MongoContainerProvider.java
+    visible: true
+    learner_created: true
+  - name: src/feedbackservice/entity/Feedback.java
+    visible: true
+    learner_created: true
+  - name: src/feedbackservice/repository/FeedbackRepository.java
+    visible: true
+    learner_created: true
+  - name: src/feedbackservice/services/FeedbackService.java
+    visible: true
+    learner_created: true
+  - name: src/feedbackservice/dto/CreateFeedbackRequestDto.java
+    visible: true
+    learner_created: true
+  - name: src/feedbackservice/services/implement/FeedbackServiceImpl.java
+    visible: true
+    learner_created: true
+  - name: src/feedbackservice/controller/FeedbackController.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/409/stages/2395/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 01 Sep 2024 07:45:22 UTC"
+record: 1
